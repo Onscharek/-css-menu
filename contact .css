@@ -1,0 +1,9 @@
+.form { background-color: rgb(81, 31, 6); color: aliceblue; text-align: center ;}
+h1 {
+    text-shadow: 2px 2px 2px black;
+        letter-spacing: 4px;
+        word-spacing: 4px;
+
+  text-align: center;background-color: rgb(181, 109, 74);color: aliceblue}
+button {; background-color: rgb(181, 109, 74) ; color: aliceblue}
+button:hover { background-color: beige ;color: black ; cursor: pointer;}

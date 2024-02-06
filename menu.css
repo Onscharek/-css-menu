@@ -1,0 +1,28 @@
+*{font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;}
+.name {background-color: rgb(81, 31, 6); color: aliceblue; text-align: center ;}
+.app { background-color: rgb(181, 109, 74);
+    display: flex;
+    align-items: center; justify-content: space-around;}     
+    
+    
+h1 { text-shadow: 2px 2px 2px rgb(181, 109, 74); background-color: rgb(81, 31, 6); color: aliceblue; text-align: center ;}
+            
+.main { background-color: rgb(181, 109, 74);
+    display: flex;
+    align-items: center; justify-content: space-around;}
+
+    button {; background-color: rgb(181, 109, 74) ; color: aliceblue ;  }
+    button {text-align: center; padding-left: 800px ;padding-right: 550px; margin-top: 5px;}
+    button:hover { background-color: beige ;color: black ; cursor: pointer;}
+
+
+.dess {background-color: rgb(181, 109, 74);
+    display: flex;
+    align-items: center; justify-content: space-around;}
+
+    a {text-decoration: none;color: aliceblue;}
+    
+    .cont { text-align: center;background-color: rgb(181, 109, 74);}
+    
+    .bar {display: flex ; justify-content: space-around ; background-color: rgb(181, 109, 74);}
